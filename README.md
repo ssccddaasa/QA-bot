@@ -31,7 +31,8 @@ You’ll point the bot at a folder of PDFs—legal docs, manuals, reports, whate
 ### QA Bot Demo
 https://raw.githubusercontent.com/ssccddaasa/QA-bot/main/asset_video.mp4
 
-- **Code**: [asset_video](https://github.com/ssccddaasa/QA-bot/blob/main/asset_video)
+- **Code**: [qabot.py](https://github.com/ssccddaasa/QA-bot/blob/main/qabot.py)
+
 
 
 
