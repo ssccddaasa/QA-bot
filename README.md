@@ -30,11 +30,10 @@ You’ll point the bot at a folder of PDFs—legal docs, manuals, reports, whate
 
 ## ▶️ Demo
 
-Below is a short demo of the bot in action.  
-<video controls width="600">
-  <source src="asset_video.mp4" type="video/mp4">
+<video controls width="600" src="https://raw.githubusercontent.com/ssccddaasa/QA-bot/main/asset_video.mp4">
   Your browser does not support the video tag.
 </video>
+
 
 ---
 
